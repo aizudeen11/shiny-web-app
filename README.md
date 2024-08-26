@@ -1,7 +1,7 @@
 # shiny-web-app
 Shiny (python) is a python library use to build web application. The core of Shiny revolves around the concept of reactive programming, where changes in inputs (such as sliders or buttons) trigger automatic updates in outputs (such as plots or tables).
 
-#How to install
+#How to install <br>
 if you are using VSCode IDE, you can install Shiny extention <br>
 <img width="613" alt="image" src="https://github.com/user-attachments/assets/38a0ea46-06a8-40eb-8764-7f1aa0be3661"><br>
 use command Ctrl + Shift + P and run Shiny app<br>
